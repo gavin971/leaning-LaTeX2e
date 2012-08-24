@@ -1,0 +1,79 @@
+SyncTeX Version:1
+Input:1:F:/documents/set_up_type/latex/LaTeX2e 完全学习手册示例源文件/第 1 章  LaTeX 简介/CTeX 中文套装基本功能测试/1-CTeX.tex
+Input:2:C:/CTEX/MiKTeX/tex/latex/base/book.cls
+Input:3:C:/CTEX/MiKTeX/tex/latex/base/bk10.clo
+Input:4:C:/CTEX/CTeX/tex/latex/ctex/ctex.sty
+Input:5:C:/CTEX/CTeX/tex/latex/ctex/opt/ctex-common-opts.def
+Input:6:C:/CTEX/CTeX/tex/latex/ctex/cfg/ctexopts.cfg
+Input:7:C:/CTEX/CTeX/tex/latex/ctex/def/ctex-common.def
+Input:8:C:/CTEX/MiKTeX/tex/generic/oberdiek/ifpdf.sty
+Input:9:C:/CTEX/MiKTeX/tex/generic/ifxetex/ifxetex.sty
+Input:10:C:/CTEX/MiKTeX/tex/latex/graphics/keyval.sty
+Input:11:C:/CTEX/MiKTeX/tex/latex/tools/indentfirst.sty
+Input:12:C:/CTEX/MiKTeX/tex/latex/base/fix-cm.sty
+Input:13:C:/CTEX/MiKTeX/tex/latex/base/ts1enc.def
+Input:14:C:/CTEX/CTeX/tex/latex/ctex/engine/ctex-cjk-engine.def
+Input:15:C:/CTEX/MiKTeX/tex/latex/cjk/CJK.sty
+Input:16:C:/CTEX/MiKTeX/tex/latex/cjk/mule/MULEenc.sty
+Input:17:C:/CTEX/MiKTeX/tex/latex/cjk/CJK.enc
+Input:18:C:/CTEX/CTeX/tex/latex/CJKpunct/CJKpunct.sty
+Input:19:C:/CTEX/CTeX/tex/latex/CJKpunct/CJKpunct.spa
+Input:20:C:/CTEX/CTeX/tex/latex/ctex/engine/ctex-cjk-common.def
+Input:21:C:/CTEX/CTeX/tex/latex/ctex/fontset/ctex-cjk-winfonts.def
+Input:22:C:/CTEX/CTeX/tex/generic/zhmetrics/zhwinfonts.tex
+Input:23:C:/CTEX/MiKTeX/tex/generic/oberdiek/ifpdf.sty
+Input:24:C:/CTEX/CTeX/tex/latex/ctex/def/ctex-gbk.def
+Input:25:C:/CTEX/CTeX/tex/latex/ctex/cfg/ctex.cfg
+Input:26:F:/documents/set_up_type/latex/LaTeX2e 完全学习手册示例源文件/第 1 章  LaTeX 简介/CTeX 中文套装基本功能测试/1-CTeX.aux
+Input:27:C:/CTEX/MiKTeX/tex/latex/cjk/standard.bdg
+Input:28:C:/CTEX/MiKTeX/tex/latex/cjk/extended.enc
+Input:29:C:/CTEX/MiKTeX/tex/latex/cjk/extended.chr
+Input:30:C:/CTEX/CTeX/tex/latex/ctex/fd/c19rm.fd
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!1839
+{1
+[1,5:4736286,45851110:24903680,41114824,0
+[1,5:7030046,45851110:22609920,39673032,0
+[1,5:7030046,6964510:22609920,786432,0
+(1,5:7030046,6964510:22609920,422343,0
+k1,5:29312286,6964510:22282240
+x1,5:29639967,6964510
+)
+]
+[1,5:7030046,44193381:22609920,36044800,0
+(1,5:7030046,8803941:22609920,540016,141084
+h1,4:7030046,8803941:1310720,0,0
+x1,4:8996126,8803941
+g1,4:8996126,8803941
+x1,4:9651486,8803941
+x1,4:10061087,8803941
+[1,4:9825157,8803941:386847,447828,0
+(1,4:9825157,8669594:386847,313481,0
+x1,4:10212004,8669594
+)
+]
+x1,4:10587020,8803941
+(1,4:10477770,8945025:446010,447828,0
+x1,4:10923780,8945025
+)
+x1,4:11333381,8803941
+k1,5:29639965,8803941:18306584
+g1,5:29639965,8803941
+)
+]
+h1,5:7030046,45851110:22609920,0,0
+]
+]
+!734
+}1
+Input:31:F:/documents/set_up_type/latex/LaTeX2e 完全学习手册示例源文件/第 1 章  LaTeX 简介/CTeX 中文套装基本功能测试/1-CTeX.aux
+!136
+Postamble:
+Count:24
+!25
+Post scriptum:
